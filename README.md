@@ -15,6 +15,16 @@ Aerosight is a lightweight Python web application built with Flask that visualiz
 -  Optimized with caching to reduce API calls
 
 ---
+## 📸 Screenshots
+screenshots/
+├── homepage.png
+├── results-page1.png
+├── results-page2.png
+
+![Home](screenshots/homepage.png)
+![Results](screenshots/results-page1.png)
+![Results](screenshots/results-page2.png)
+---
 
 ##  Tech Stack
 
